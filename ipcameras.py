@@ -8,6 +8,7 @@ import subprocess
 import shutil
 
 # Endpoint da camera descoberto com ODM
+# Processos de video feitos com ffmpeg
 # ============ CONFIGURAÇÕES ============ 
 cameras = {}
 
